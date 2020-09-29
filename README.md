@@ -1,7 +1,7 @@
 # -ExData_Plotting1-
 
-#Introduction
-==================================================================
+# Introduction
+
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the "Individual household electric power consumption Data Set" which I have made available on the course web site:
 
     Dataset: Electric power consumption [20Mb]
@@ -22,7 +22,7 @@ The following descriptions of the 9 variables in the dataset are taken from the 
     
     
 # Loading Data
-==========================================================================
+
 When loading the dataset into R, please consider the following:
 
     The dataset has 2,075,259 rows and 9 columns. First calculate a rough estimate of how much memory the dataset will require in memory before reading into R. Make sure your computer has enough memory (most modern computers should be fine).
@@ -34,7 +34,6 @@ When loading the dataset into R, please consider the following:
     Note that in this dataset missing values are coded as ?.
 
 # Making Plots
-================================================================================
 
 Our overall goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007. Your task is to reconstruct the following plots below, all of which were constructed using the base plotting system.
 
